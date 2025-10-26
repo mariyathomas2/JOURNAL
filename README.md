@@ -1,1 +1,1 @@
-# JOURNAL
+# Daily_Journal_MERN
